@@ -3,3 +3,5 @@
 3.         Perbaiki codingan pada github yang sudah tertera pada file main.java
 
 #FORK LAH REPO INI LALU TAMBAHKAN NIM PADA NAMA REPO ANDA(PBO6_UTS_NIM)
+
+#Bang, tugas saya di main branch ya. Gk bisa push project ke branch yg ini soalnya :')
